@@ -9,6 +9,6 @@ export default function HelloWorldApp() {
       alignItems: 'center'
     }}>
     <Text>Poojan Patel</Text>
-    <Text>Student in MAPD712</Text>
+    <Text>Student-ID: 301228811</Text>
     </View>
   )}
